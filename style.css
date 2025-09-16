@@ -236,6 +236,10 @@ footer{
     width: 20px;
 }
 
+.footer-social a{
+    color: white;
+}
+
 .footer-social ul{
     list-style: none;
 }
