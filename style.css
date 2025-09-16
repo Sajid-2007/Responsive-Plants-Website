@@ -257,6 +257,11 @@ footer{
 .footer-social ul li i{
     font-size: 30px;
     padding-bottom: 20px;
+    transition: 0.3s;
+}
+
+.footer-social ul li i:hover{
+    transform: translateY(-4px);
 }
 
 .city-name{
